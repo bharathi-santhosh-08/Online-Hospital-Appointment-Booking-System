@@ -11,6 +11,8 @@ User Login,
 Logout functionality,
 Protected routes after login.
 
+<img width="2706" height="1346" alt="Image" src="https://github.com/user-attachments/assets/77af7ec0-8e3a-4ff1-a078-8d09e0d7f328" />
+
 <img width="2706" height="1346" alt="Image" src="https://github.com/user-attachments/assets/b8f0b493-9799-46f4-8bd5-8021975da95f" />
 
 ## 🏠 Home Page
@@ -36,6 +38,10 @@ Book doctor appointments,
 View booked appointments,
 Cancel appointments,
 Appointment date & time display.
+
+
+
+<img width="2706" height="1222" alt="Image" src="https://github.com/user-attachments/assets/8301f277-4ed6-4aa3-a8a6-5c59e969b7ee" />
 
 <img width="2706" height="1252" alt="Image" src="https://github.com/user-attachments/assets/e633f2c0-cc0d-4d88-aaec-969ef873ea01" />
 
